@@ -1,3 +1,6 @@
+### Homework ###
+*.zip
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
