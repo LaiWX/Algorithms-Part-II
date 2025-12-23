@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms, Part II.iml" filepath="$PROJECT_DIR$/Algorithms, Part II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 3 - WordNet/Module 3 - WordNet.iml" filepath="$PROJECT_DIR$/Module 3 - WordNet/Module 3 - WordNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 4 - MST(extra)/Module 4 - MST.iml" filepath="$PROJECT_DIR$/Module 4 - MST(extra)/Module 4 - MST.iml" />
     </modules>
   </component>
 </project>
